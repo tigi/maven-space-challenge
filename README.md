@@ -1,4 +1,4 @@
-# maven-space-challenge!
+# maven-space-challenge
 
 My python (and an additional css file, which belongs in an subfolder) used for ETL and display the results with dash and plotly.
 
